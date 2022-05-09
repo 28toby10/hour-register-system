@@ -109,7 +109,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 <span class="invalid-feedback"><?php echo $date_err; ?></span>
             </div>
             <div class="form-group">
-                <input type="submit" class="btn btn-primary" value="Taak toevoegen">
+                <input type="submit" class="btn btn-primary" value="Uren Registreren">
                 <a class="btn btn-link ml-2" href="registerd-hours.php">Annuleren</a>
             </div>
         </form>
